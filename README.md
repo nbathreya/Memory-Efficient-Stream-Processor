@@ -2,6 +2,10 @@
 
 Process GB-scale signals with constant memory usage. Demonstrates chunked processing, memory mapping, and zero-copy operations for real-time data pipelines.
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Key Features
 
 - **Memory-Mapped I/O**: Zero-copy file reading with `mmap`
